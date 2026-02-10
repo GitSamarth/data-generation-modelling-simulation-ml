@@ -87,6 +87,7 @@ Models are evaluated using:
 | Random Forest | **0.03** | **0.13** | **0.9999** |
 | SVR | 113.29 | 5.77 | 0.964 |
 | KNN | 0.09 | 0.23 | 0.999 |
+<img width="567" height="624" alt="image" src="https://github.com/user-attachments/assets/1cbdf633-f2ae-47e8-b703-a448fe0562a8" />
 
 A bar chart visualizes R² scores across models.
 
